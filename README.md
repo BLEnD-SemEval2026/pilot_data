@@ -19,31 +19,31 @@ This file contains the trial data with multiple-choice options.
 
 - The mapping between the codes and the full language-country names is as follows:
 
-| Code   | Language – Region            |
-|--------|------------------------------|
-| msa-SG | Malay (Singapore)            |
-| tam-SG | Tamil (Singapore)            |
-| zho-SG | Chinese (Singapore)          |
-| spa-EC | Spanish (Ecuador)            |
-| eng-GB | English (United Kingdom)     |
-| zho-CN | Chinese (China)              |
-| spa-ES | Spanish (Spain)              |
-| spa-MX | Spanish (Mexico)             |
-| ind-ID | Indonesian (Indonesia)       |
-| kor-KR | Korean (South Korea)         |
-| ell-GR | Greek (Greece)               |
-| fas-IR | Persian/Farsi (Iran)         |
-| ara-EG | Arabic (Egypt)               |
-| ara-MA | Arabic (Morocco)             |
-| ara-SA | Arabic (Saudi Arabia)        |
-| eng-AU | English (Australia)          |
-| eus-ES | Basque (Spain – Basque Country) |
-| fra-FR | French (France)              |
-| gle-IE | Irish (Ireland)              |
-| tam-LK | Tamil (Sri Lanka)            |
-| tgl-PH | Tagalog (Philippines)        |
-| bul-BG | Bulgarian (Bulgaria)         |
-| jpn-JP | Japanese (Japan)             |
+| Code  | Language – Region            |
+|-------|------------------------------|
+| ms-SG | Malay (Singapore)            |
+| ta-SG | Tamil (Singapore)            |
+| zh-SG | Chinese (Singapore)          |
+| es-EC | Spanish (Ecuador)            |
+| en-GB | English (United Kingdom)     |
+| zh-CN | Chinese (China)              |
+| es-ES | Spanish (Spain)              |
+| es-MX | Spanish (Mexico)             |
+| id-ID | Indonesian (Indonesia)       |
+| ko-KR | Korean (South Korea)         |
+| el-GR | Greek (Greece)               |
+| fa-IR | Persian/Farsi (Iran)         |
+| ar-EG | Arabic (Egypt)               |
+| ar-MA | Arabic (Morocco)             |
+| ar-SA | Arabic (Saudi Arabia)        |
+| en-AU | English (Australia)          |
+| eu-ES | Basque (Spain – Basque Country) |
+| fr-FR | French (France)              |
+| ga-IE | Irish (Ireland)              |
+| ta-LK | Tamil (Sri Lanka)            |
+| tl-PH | Tagalog (Philippines)        |
+| bg-BG | Bulgarian (Bulgaria)         |
+| ja-JP | Japanese (Japan)             |
 
 - **question**: The question text.
 
@@ -66,29 +66,29 @@ This file contains the trial data with multiple-choice options.
 
 | Code   | Language – Region               |
 |--------|---------------------------------|
-| msa-SG | Malay (Singapore)               |
-| tam-SG | Tamil (Singapore)               |
-| zho-SG | Chinese (Singapore)             |
-| spa-EC | Spanish (Ecuador)               |
-| eng-GB | English (United Kingdom)        |
-| zho-CN | Chinese (China)                 |
-| spa-ES | Spanish (Spain)                 |
-| spa-MX | Spanish (Mexico)                |
-| ind-ID | Indonesian (Indonesia)          |
-| kor-KR | Korean (South Korea)            |
-| ell-GR | Greek (Greece)                  |
-| fas-IR | Persian/Farsi (Iran)            |
-| ara-EG | Arabic (Egypt)                  |
-| ara-MA | Arabic (Morocco)                |
-| ara-SA | Arabic (Saudi Arabia)           |
-| eng-AU | English (Australia)             |
-| eus-ES | Basque (Spain – Basque Country) |
-| fra-FR | French (France)                 |
-| gle-IE | Irish (Ireland)                 |
-| tam-LK | Tamil (Sri Lanka)               |
-| tgl-PH | Tagalog (Philippines)           |
-| bul-BG | Bulgarian (Bulgaria)            |
-| jpn-JP | Japanese (Japan)                |
+| ms-SG | Malay (Singapore)               |
+| ta-SG | Tamil (Singapore)               |
+| zh-SG | Chinese (Singapore)             |
+| es-EC | Spanish (Ecuador)               |
+| en-GB | English (United Kingdom)        |
+| zh-CN | Chinese (China)                 |
+| es-ES | Spanish (Spain)                 |
+| es-MX | Spanish (Mexico)                |
+| id-ID | Indonesian (Indonesia)          |
+| ko-KR | Korean (South Korea)            |
+| el-GR | Greek (Greece)                  |
+| fa-IR | Persian/Farsi (Iran)            |
+| ar-EG | Arabic (Egypt)                  |
+| ar-MA | Arabic (Morocco)                |
+| ar-SA | Arabic (Saudi Arabia)           |
+| en-AU | English (Australia)             |
+| eu-ES | Basque (Spain – Basque Country) |
+| fr-FR | French (France)                 |
+| ga-IE | Irish (Ireland)                 |
+| ta-LK | Tamil (Sri Lanka)               |
+| tl-PH | Tagalog (Philippines)           |
+| bg-BG | Bulgarian (Bulgaria)            |
+| ja-JP | Japanese (Japan)                |
 
 - **question**: The question text.
 
